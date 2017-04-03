@@ -3,7 +3,8 @@ Do it everyday
 Um repositório onde irei anotar o que aprendi separado por dia/mês/ano.
 
 
-##Abril/2017
+Abril/2017
+----------
 
 _PS: Abril será focado em criar um portfólio com um nível de mercado._
 
