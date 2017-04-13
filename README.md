@@ -20,5 +20,11 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
 - **_Dia 09_**
 > Revisão do conteúdo de BD da faculdade.
 
- **_Dia 10_**
+ - **_Dia 10_**
  > Prova de Fundamentos de Rede na faculdade. Somente efetuei uma revisão do conteúdo já apresentado na faculdade.
+
+  - **_Dia 11_**
+ > Prova de BD da faculdade.
+
+  - **_Dia 12_**
+  > Prova de algoritimos e linguagem C.
