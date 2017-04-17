@@ -28,3 +28,6 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
 
   - **_Dia 12_**
   > Prova de algoritimos e linguagem C.
+
+ - **_Dia 16_**
+ > Fazendo alguns exercícios do Eloquent JavaScript
