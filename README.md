@@ -23,11 +23,14 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
  - **_Dia 10_**
  > Prova de Fundamentos de Rede na faculdade. Somente efetuei uma revisão do conteúdo já apresentado na faculdade.
 
-  - **_Dia 11_**
+ - **_Dia 11_**
  > Prova de BD da faculdade.
 
-  - **_Dia 12_**
-  > Prova de algoritimos e linguagem C.
+ - **_Dia 12_**
+ > Prova de algoritimos e linguagem C.
 
  - **_Dia 16_**
  > Fazendo alguns exercícios do Eloquent JavaScript
+
+ - **_Dia 18_**
+ > Criei meu Site com Jekyll (<3), e estava lendo (fazendo exercícios) do Eloquent JavaScript.
