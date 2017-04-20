@@ -34,3 +34,6 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
 
  - **_Dia 18_**
  > Criei meu Site com Jekyll (<3), e estava lendo (fazendo exercícios) do Eloquent JavaScript.
+
+ - **_Dia 19_**
+ > Aprendi como utilizar o Switch em JavaScript e em linguagem C. 
