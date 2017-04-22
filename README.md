@@ -37,3 +37,6 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
 
  - **_Dia 19_**
  > Aprendi como utilizar o Switch em JavaScript e em linguagem C. 
+
+ - **_Dia 21_**
+ > Fiz uma revisão de alguns exercícios de JavaScript e li alguns bons artigos sobre produtividade!
