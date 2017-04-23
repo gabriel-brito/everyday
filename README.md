@@ -40,3 +40,5 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
 
  - **_Dia 21_**
  > Fiz uma revisão de alguns exercícios de JavaScript e li alguns bons artigos sobre produtividade!
+ - **_Dia 23_**
+ > Estou lendo e fazendo os exercícios do livro Eloquent JavaScript.
