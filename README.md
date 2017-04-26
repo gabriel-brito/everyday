@@ -46,3 +46,6 @@ _PS: Abril será focado em criar um portfólio com um nível de mercado._
 
  - **_Dia 24_**
  > Eu continuo lendo o Eloquent JS :D
+
+ - **_Dia 25_**
+ > Continuo com o Eloquent JS! E estou indo até que bem!
