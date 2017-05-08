@@ -9,3 +9,6 @@ Maio/2017
 
 - **_Dia 06_**
 > Continuo firme e forte nos estudos. 
+
+- **_Dia 08_**
+> Estudo sobre Armazenamento de Dados pelo navegador, utilizando cookies ou o IndexedDB.
