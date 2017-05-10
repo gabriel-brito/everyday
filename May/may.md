@@ -12,3 +12,6 @@ Maio/2017
 
 - **_Dia 08_**
 > Estudo sobre Armazenamento de Dados pelo navegador, utilizando cookies ou o IndexedDB.
+
+- **_Dia 09_**
+> Estudo sobre API de comunicação e finalizado a primeira parte da minha nova trilha de estudos.
