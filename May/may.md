@@ -15,3 +15,6 @@ Maio/2017
 
 - **_Dia 09_**
 > Estudo sobre API de comunicação e finalizado a primeira parte da minha nova trilha de estudos.
+
+- **_Dia 10_**
+> Leitura do [LearnLayout](http://pt-br.learnlayout.com/) e aula de algoritimos e técnicas de programação na faculdade.
