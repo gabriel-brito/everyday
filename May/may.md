@@ -18,3 +18,6 @@ Maio/2017
 
 - **_Dia 10_**
 > Leitura do [LearnLayout](http://pt-br.learnlayout.com/) e aula de algoritimos e técnicas de programação na faculdade.
+
+- **_Dia 11_**
+> Comecei o desenvolvimento do primeiro projeto do [Front-End Hero]() e comecei a construir um DB com SQL server na faculdade.
