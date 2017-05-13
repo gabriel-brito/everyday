@@ -24,3 +24,6 @@ Maio/2017
 
 - **_Dia 12_**
 > Conclusão de uma das etapas do estudo EAD da faculdade e meu primeiro contato com PHP.
+
+- **_Dia 13_**
+> Terminei de assistir a live do [Training Center](https://www.youtube.com/watch?v=k5Zz-m1i8f0)!
