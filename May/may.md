@@ -21,3 +21,6 @@ Maio/2017
 
 - **_Dia 11_**
 > Comecei o desenvolvimento do primeiro projeto do [Front-End Hero]() e comecei a construir um DB com SQL server na faculdade.
+
+- **_Dia 12_**
+> Conclusão de uma das etapas do estudo EAD da faculdade e meu primeiro contato com PHP.
