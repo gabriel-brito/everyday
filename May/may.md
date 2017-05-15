@@ -27,3 +27,6 @@ Maio/2017
 
 - **_Dia 13_**
 > Terminei de assistir a live do [Training Center](https://www.youtube.com/watch?v=k5Zz-m1i8f0)!
+
+- **_Dia 15_**
+> Primeiro projeto do Front-End Hero finalizado.
