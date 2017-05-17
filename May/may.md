@@ -30,3 +30,6 @@ Maio/2017
 
 - **_Dia 15_**
 > Primeiro projeto do Front-End Hero finalizado.
+
+- **_Dia 16_**
+> Feito a segunda replica do "Zero ao Herói Front-End". Repliquei o [Hero do DropBox](http://codepen.io/gabriel-brito/full/xdzPZa/). E terminei um conteúdo da faculdade.
