@@ -36,3 +36,6 @@ Maio/2017
 
 - **_Dia 17_**
 > Feita a terceira réplica do "Zero ao Herói Front-End". Repliquei o [Footer do AirBnB](https://codepen.io/gabriel-brito/full/aWaWqm/).
+
+- **_Dia 18_**
+> Dei início ao quarto projeto do Herói Front-End.
