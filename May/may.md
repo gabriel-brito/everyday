@@ -42,3 +42,6 @@ Maio/2017
 
 - **_Dia 19_**
 > Feita a quarta réplica do "Zero ao Herói Front-End". Repliquei o [Navigation do PayPal](http://codepen.io/gabriel-brito/full/zwmqBO/).
+
+- **_Dia 20_**
+> Feita a quinta réplica do "Zero ao Herói Front-End". Repliquei o [Subscribe do InVision](https://codepen.io/gabriel-brito/full/aWQwWp/).
