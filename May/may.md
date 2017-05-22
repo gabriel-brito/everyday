@@ -45,3 +45,6 @@ Maio/2017
 
 - **_Dia 20_**
 > Feita a quinta réplica do "Zero ao Herói Front-End". Repliquei o [Subscribe do InVision](https://codepen.io/gabriel-brito/full/aWQwWp/).
+
+- **_Dia 22_**
+> Início dos estudos com CLI, Fetch e Yargs!
