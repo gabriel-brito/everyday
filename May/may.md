@@ -48,3 +48,6 @@ Maio/2017
 
 - **_Dia 22_**
 > Início dos estudos com CLI, Fetch e Yargs!
+
+- **_Dia 25_**
+> Término de um trabalho da faculdade.
