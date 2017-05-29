@@ -51,3 +51,6 @@ Maio/2017
 
 - **_Dia 25_**
 > Término de um trabalho da faculdade.
+
+- **_Dia 29_**
+> Término do curso de [ReactJs](http://jscasts.teachable.com/)!
