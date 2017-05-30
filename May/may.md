@@ -54,3 +54,6 @@ Maio/2017
 
 - **_Dia 29_**
 > Término do curso de [ReactJs](http://jscasts.teachable.com/)!
+
+- **_Dia 30_**
+> Terminei os exercícios de flex-box!
