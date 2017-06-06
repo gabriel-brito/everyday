@@ -3,3 +3,6 @@
 
 - **_Dia 02_**
 >{Fixação do conteúdo sobre BEM, flexbox e vendor prefixes};
+
+- **_Dia 05_**
+>Prova de gerenciamento de redes e conclusão do projeto integrado.
