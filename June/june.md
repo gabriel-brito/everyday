@@ -6,3 +6,6 @@
 
 - **_Dia 05_**
 >Prova de gerenciamento de redes e conclusão do projeto integrado.
+
+- **_Dia 09_**
+>Fim da semana de provas!
