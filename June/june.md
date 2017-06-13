@@ -11,4 +11,4 @@
 >Fim da semana de provas!
 
 - **_Dia 13_**
-> Começo do Projeto 'todo-app'
+> Começo do Projeto 'todo-app'!
