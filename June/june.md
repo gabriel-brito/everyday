@@ -12,3 +12,6 @@
 
 - **_Dia 13_**
 > Começo do Projeto 'todo-app'!
+
+- **_Dia 14_**
+> Lendo um pouco mais sobre ReactJS
