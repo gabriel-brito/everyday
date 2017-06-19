@@ -15,3 +15,6 @@
 
 - **_Dia 14_**
 > Lendo um pouco mais sobre ReactJS
+
+- **_Dia 19_**
+> Começando a escrever o artigo sobre o poke-search
