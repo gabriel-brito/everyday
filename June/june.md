@@ -18,3 +18,6 @@
 
 - **_Dia 19_**
 > Começando a escrever o artigo sobre o poke-search
+
+- **_Dia 24_**
+> Assisti a live do F.Daciuk sobre CSS
