@@ -3,3 +3,6 @@
 
 - **_Dia 11_**
 > Término do segundo módulo do curso de ES6.
+
+- **_Dia 12_**
+> Introdução ao Template Literals.
