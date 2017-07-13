@@ -6,3 +6,6 @@
 
 - **_Dia 12_**
 > Introdução ao Template Literals.
+
+- **_Dia 13_**
+> Estudo sobre Tagged Template Literals.
