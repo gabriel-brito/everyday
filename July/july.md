@@ -9,3 +9,6 @@
 
 - **_Dia 13_**
 > Estudo sobre Tagged Template Literals.
+
+- **_Dia 14_**
+> Introdução ao módulo 5: ShortHand Properties.
