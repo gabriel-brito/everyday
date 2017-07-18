@@ -12,3 +12,6 @@
 
 - **_Dia 14_**
 > Introdução ao módulo 5: ShortHand Properties.
+
+- **_Dia 18_**
+> Estudo sobre ShortHand Properties e sobre Default Parameters.
