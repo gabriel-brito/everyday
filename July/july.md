@@ -15,3 +15,6 @@
 
 - **_Dia 18_**
 > Estudo sobre ShortHand Properties e sobre Default Parameters.
+
+- **_Dia 19_**
+> Participei de uma palestra sobre Live Marketing :)
