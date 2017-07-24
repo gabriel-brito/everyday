@@ -18,3 +18,6 @@
 
 - **_Dia 19_**
 > Participei de uma palestra sobre Live Marketing :)
+
+- **_Dia 24_**
+> Estudo sobre os novos métodos dos arrays e sobre destructuring!
