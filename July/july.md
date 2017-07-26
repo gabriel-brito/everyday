@@ -21,3 +21,6 @@
 
 - **_Dia 24_**
 > Estudo sobre os novos métodos dos arrays e sobre destructuring!
+
+- **_Dia 25_**
+> Fim da aula sobre Destructuriong e sobre ...Spread e ...Rest.
