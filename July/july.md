@@ -24,3 +24,6 @@
 
 - **_Dia 25_**
 > Fim da aula sobre Destructuriong e sobre ...Spread e ...Rest.
+
+- **_Dia 29_**
+> Dois pomodoros sobre Promise.
